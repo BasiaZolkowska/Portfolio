@@ -6,11 +6,13 @@ I am master of economics. I have almost 10 years of experirnce working at bank. 
 
 # 2. Tools
 * JIRA
+* TestRail
 * Postman
 * Selenium IDE
 * SoapUl
-* MySQL
+* MySQL/MS SQL
 * GitHub
+* Apache JMeter
 
 # 3. Tech skills
 * SQL
@@ -27,6 +29,8 @@ I am master of economics. I have almost 10 years of experirnce working at bank. 
 * Software Development Academy - Software Tester
 * Udemy - GitHub dla początkujących
 * jaktestowac.pl - Git dla testerów
+* Udemy - Selenium IDE - Podstawy automatyzacji + selektory webDriver
+* Udemy - SQL - jezyk zapytań do bazy danych SQL Server
 
 # 6. Books
 * R. Smiglin - Zawód tester
@@ -48,6 +52,7 @@ I am master of economics. I have almost 10 years of experirnce working at bank. 
 
 # 9. Webinars
 * GeekON - praktyczne ćwieczenia SQL
+* CI/CD - Teoria i Praktyka
 
 # 10. My test case examples
 
