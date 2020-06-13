@@ -57,6 +57,6 @@ I am master of economics. I have almost 10 years of experirnce working at bank. 
 # 10. My test case examples
 
 # 11. My bug reports
-[Alior Bank](https://drive.google.com/drive/folders/1txZGyUDSJ2ld5uk5xJf6tn6K76ejNnGt)
+[Alior Bank](https://drive.google.com/file/d/1wWT3Mrv6wOOjHvWLuRu0HOT6UBs36J9S/view?usp=sharing)
 
 # 12. My projects
